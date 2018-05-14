@@ -1,4 +1,4 @@
-# html-to-jsx-vscode
+# html-to-jsx
 A basic Visual Studio Code plugin that converts html text to JSX string
 
 You can select your html text and use the shortcut ctrl+alt+x
