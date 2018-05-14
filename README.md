@@ -10,4 +10,4 @@ You can select your html text and use the shortcut ctrl+alt+x
 
 [Change log](https://github.com/riazXrazor/html-to-jsx/blob/master/CHANGELOG.md)
 
-![converting and html text to javascript string](https://raw.githubusercontent.com/riazXrazor/html-to-jsx/master/gif/htmltostring.gif)
+![converting and html text to JSX](https://raw.githubusercontent.com/riazXrazor/html-to-jsx/master/gif/html-to-jsx.gif)
