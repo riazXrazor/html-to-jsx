@@ -3,7 +3,7 @@
     "displayName": "html to JSX",
     "description": "Converts html code to React JSX",
     "version": "0.0.1",
-    "publisher": "riazXrazor",
+    "publisher": "riazxrazor",
     "repository": {
         "type": "git",
         "url": "https://github.com/riazXrazor/html-to-jsx.git"
